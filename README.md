@@ -1,3 +1,26 @@
+Project Title: Fluffy Pan 
+
+Description This is a simple static website created using HTML & CSS. The website is mobile responsive and easy to navigate.
+
+Table of Contents:
+1.) Home Page:
+  * header
+  * hero
+  * why choose us
+  * our best sellers
+  * customer reviews
+  * contact us
+  * footer
+
+Installation:
+All you need to do is run the HTML file and the static site will load.
+
+Instructions:
+This is website is a information website where all you need to do is check the flow of the site. No actions needed.
+
+
+
+
 # Projects
 
 Repository for compiling practice projects
